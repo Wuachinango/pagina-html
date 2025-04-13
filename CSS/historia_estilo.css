@@ -36,8 +36,18 @@
     background-color: #f1f1f1;
 }
 
-.carousel-item img{
 
-    width: 800px;
-    height: 530px;
+.card-img-top {
+    width: 100px;
+    height: 200px;
 }
+
+.card{
+    width: 100%;
+}
+
+.col-sm{
+    margin-bottom: 1em;
+}
+
+
