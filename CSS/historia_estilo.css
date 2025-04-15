@@ -36,7 +36,6 @@
     background-color: #f1f1f1;
 }
 
-
 .card-img-top {
     width: 100px;
     height: 200px;
@@ -48,6 +47,16 @@
 
 .col-sm{
     margin-bottom: 1em;
+}
+
+.contacto{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.redes-sociales{
+    margin: 10px;
+    font-size: 18px;
 }
 
 

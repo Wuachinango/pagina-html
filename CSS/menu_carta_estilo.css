@@ -36,6 +36,20 @@
     background-color: #f1f1f1;
 }
 
+.contacto{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.redes-sociales{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.precio{
+    color:red;
+}
+
 .carousel-item img{
 
     width: 800px;
